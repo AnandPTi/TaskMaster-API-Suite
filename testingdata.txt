@@ -1,0 +1,53 @@
+{
+  "name": "Anand Prakash",
+  "email": "Anandbhilai@gm.com",
+  "password": "password123",
+  "phone_number": 8700907968,
+
+}
+
+we will perform signup then login then ogout then again login
+
+task:
+{
+  "title": "Complete given task of openinit",
+  "description": "Write and finalize the project proposal document.",
+  "due_date": "2024-03-20T00:00:00.000Z",
+  "status": "TODO",
+  "priority": 2,
+  "userId": "609d96a87c083b0d2c19030a"
+}
+subtask:
+{
+  "task_id": "609d96a87c083b0d2c19030a", // ObjectId of the associated task
+  "name": "Research",
+  "status": 0,
+  "created_at": "2024-03-10T08:00:00.000Z",
+  "updated_at": "2024-03-10T08:00:00.000Z",
+  "deleted_at": null
+}
+subtask:
+{
+  "task_id": "609d96a87c083b0d2c19030a", // ObjectId of the associated task
+  "name": "Perform",
+  "status": 0,
+  "created_at": "2024-03-10T08:00:00.000Z",
+  "updated_at": "2024-03-10T08:00:00.000Z",
+  "deleted_at": null
+}
+
+{
+  
+  "status":1
+
+}
+
+perform operation like create 
+put
+delete 
+get
+
+
+
+
+
