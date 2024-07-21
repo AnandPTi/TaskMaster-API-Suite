@@ -20,7 +20,7 @@ TaskMaster API Suite is a comprehensive solution for managing tasks and subtasks
 
 ## Environment Variables
 
-The following environment variables are required:
+The following environment variables which are required:
 
 - `PORT`: Port number for the server
 - `MONGODB_URI`: MongoDB connection URI
