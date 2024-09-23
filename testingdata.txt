@@ -6,7 +6,7 @@
 
 }
 
-we will perform signup then login then ogout then again login
+we will perform signup then login then logout then again login
 
 task:
 {
